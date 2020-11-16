@@ -1,0 +1,59 @@
+body {
+  background-color: #352f5b;
+}
+.container {
+  max-width: 650px;
+}
+input[type="text"],
+input[type="text"]:focus {
+  color: #423a6f;
+  border: none;
+  background: rbg(0, 0, 0, 0.2);
+  max-width: 500px;
+}
+.todos li {
+  background: #423a6f;
+}
+
+.greenshadow {
+  font-weight: 800;
+  text-shadow: 1px 1px 5px #0f0e18;
+}
+.redShadow {
+  font-weight: 400;
+  text-shadow: 1px 1px 5px rgb(236, 54, 41);
+}
+.wShadow {
+  font-weight: 400;
+  text-shadow: 1px 1px 5px rgb(17, 17, 17);
+}
+.boxx {
+  box-shadow: 1px 1px 5px rgb(17, 17, 17);
+}
+.delete {
+  cursor: pointer;
+}
+.footer {
+  font-size: 11px;
+  text-shadow: 2px 2px 8px rgb(24, 13, 13);
+  color: rgb(207, 207, 207);
+}
+#ss {
+  font-size: 30px;
+}
+.filteredList {
+  display: none;
+}
+.dateStyle {
+  font-size: 15px;
+}
+.nasa-image-thumb {
+  width: 200px;
+  height: 150px;
+}
+header {
+  text-shadow: 2px 2px 8px rgb(24, 13, 13);
+}
+.si {
+  font-size: 25px;
+}
